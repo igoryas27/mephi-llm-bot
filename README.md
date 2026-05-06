@@ -37,4 +37,19 @@ uv run python -m uvicorn app.main:app --reload --port 8000
 ```
 
 ### Скрины
-![регистация](screenshots/s_auth)))
+1. регистрация
+![](screenshots/s_auth)
+2. логин
+![](screenshots/s_login)
+3. me
+![](screenshots/s_me)
+4. telegram
+![](screenshots/s_telegram)
+5. rabbitMQ
+![](screenshots/s_rabbit)
+6. Главная страница Swagger
+![](screenshots/s_auth_service)
+7. Tests
+![](screenshots/s_tests)
+
+
