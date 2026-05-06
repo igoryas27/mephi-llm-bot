@@ -34,3 +34,7 @@
 cd auth_service
 uv sync
 uv run python -m uvicorn app.main:app --reload --port 8000
+```
+
+### Скрины
+![регистация](screenshots/s_auth)))
